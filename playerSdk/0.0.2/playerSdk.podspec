@@ -106,7 +106,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.resource  = "icon.png"
-  # spec.resources = "playerSdk/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+   spec.resources = "playerSdk/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
